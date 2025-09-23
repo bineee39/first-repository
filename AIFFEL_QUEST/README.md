@@ -4,7 +4,9 @@
 
 
 # PRT(Peer Review Template)
+
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+
 텍스트 입력:i want to go sleep
 인코딩 결과: [2, 117, 4, 106, 736]   
     
